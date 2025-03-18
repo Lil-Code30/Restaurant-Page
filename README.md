@@ -9,6 +9,10 @@ Démo du site ici: [Live](https://lil-code30.github.io/Restaurant-Page/)
 
 ## 📺 Résultat
 <div align="center">
-  <img src="Output.png" alt="Aperçu du projet" width="80%">
-  <p><em> Aperçu du projet</em></p>
+  <img src="ouput-imgs/home-img.png" alt="Aperçu du projet" width="80%">
+  <p><em> Home Page</em></p>
+  <img src="ouput-imgs/menu-img.png" alt="Aperçu du projet" width="80%">
+  <p><em> Menu Page</em></p>
+  <img src="ouput-imgs/about-img.png" alt="Aperçu du projet" width="80%">
+  <p><em>About Page</em></p>
 </div>
