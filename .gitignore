@@ -1,1 +1,5 @@
-/node_modules
+#nodes modules
+node_modules/
+
+#igmore the dist folder for webpack
+dist/
